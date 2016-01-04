@@ -15,7 +15,7 @@ Content
 Credits
 =======
 
-These scripts has been written by Francois B. (Makotosan / Shakasan)
+These scripts have been written by Francois B. (Makotosan / Shakasan)
 * Email : shakasan [at] sirenacorp.be
 * Website : https://sirenacorp.be/
 
