@@ -9,6 +9,7 @@
 #     - just modify the idVendor parameter regarding your own hardware         #
 ################################################################################
 
+idVendor="18d1"
 NORMAL="\\033[0;39m"
 JAUNE="\\033[1;33m"
 myHomedir=$(whoami)
@@ -36,7 +37,7 @@ printf "$JAUNE""> PATH dans .bashrc : Ajout dans le fichier\n""$NORMAL"
 sh -c "echo '\n\nexport PATH=${PATH}:/home/'$myHomedir'/tools/Android/Sdk/tools:/home/'$myHomedir'/tools/Android/Sdk/platform-tools' >> /home/$myHomedir/.bashrc"
 
 printf "$JAUNE""> Ajout règles UDEV\n""$NORMAL"
-sudo sh -c "echo 'SUBSYSTEM==\"usb\", ATTR{idVendor}==\"18d1\", MODE=\"0666\", OWNER=\""$myHomedir"\" # Google Nexus' > /etc/udev/rules.d/99-android.rules"
+sudo sh -c "echo 'SUBSYSTEM==\"usb\", ATTR{idVendor}==\""$idVendor"\", MODE=\"0666\", OWNER=\""$myHomedir"\" # Google Nexus' > /etc/udev/rules.d/99-android.rules"
 
 printf "$JAUNE""> On redémarre udev\n""$NORMAL"
 sudo service udev restart
