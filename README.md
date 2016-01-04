@@ -6,7 +6,8 @@ Scripts written to illustrate different posts on my Wordpress blog and keeping u
 Content
 =======
 
-* Android SDK install script : howto and details in this post https://sirenacorp.be/installer-le-sdk-android/
+* Android SDK install script : howto and details in this post https://sirenacorp.be/installer-le-sdk-android/ (French)
+* Check My VPN script : howto and details in this post : https://sirenacorp.be/vpn-sur-et-efficace-pour-son-nas/ (French)
 
 Credits
 =======
@@ -19,4 +20,3 @@ Licence
 =======
 
 The script is licensed under the terms of the GPLv3
-
