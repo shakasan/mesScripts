@@ -1,7 +1,10 @@
-mesScripts
-==========
 
-Scripts written to illustrate different posts on my Wordpress blog and keeping update of them.
+![mesScripts](https://sirenacorp.be/wp-content/uploads/2016/01/logo-1.png)
+
+Introduction
+============
+
+Scripts written to illustrate different posts on my Wordpress blog (Makoto no Blog) and keeping update of them.
 
 Content
 =======
