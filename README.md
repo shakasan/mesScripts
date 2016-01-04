@@ -22,4 +22,4 @@ These scripts has been written by Francois B. (Makotosan / Shakasan)
 Licence
 =======
 
-The script is licensed under the terms of the GPLv3
+The scripts are licensed under the terms of the GPLv3
