@@ -4,7 +4,7 @@
 mesScripts
 ==========
 
-Scripts written to illustrate different posts on my Wordpress blog (Makoto no Blog) and keeping update of them.
+Scripts written to illustrate some posts on my Wordpress blog (Makoto no Blog) and keeping them updated.
 
 Content
 =======
