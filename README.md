@@ -9,8 +9,9 @@ Scripts written to illustrate some posts on my Wordpress blog (Makoto no Blog) a
 Content
 =======
 
-* Android SDK install script : howto and details in this post https://sirenacorp.be/installer-le-sdk-android/ (French)
+* Android SDK install script : howto and details in this post https://sirenacorp.be/installer-le-sdk-android/ (French) (!!!outdated now!!!)
 * Check My VPN script : howto and details in this post : https://sirenacorp.be/vpn-sur-et-efficace-pour-son-nas/ (French)
+* MongoDB Community Edition 3.x install script for Ubuntu 16.0.4 x86_64 / Mint 18 / ...
 
 Credits
 =======
