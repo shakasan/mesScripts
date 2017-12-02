@@ -2,10 +2,10 @@
 ################################################################################
 # Android SDK Intall script                                                    #
 # 	author : Francois B. (Makotosan / Shakasan)                                #
-#	  website : https://sirenacorp.be/                                           #
-#	  email : shakasan [at] sirenacorp.be                                        #
-#	  licence : GPLv3                                                            #
-#	  howto use :                                                                #
+#	  website : https://sirenacorp.be/                                         #
+#	  email : shakasan [at] sirenacorp.be                                      #
+#	  licence : GPLv3                                                          #
+#	  howto use :                                                              #
 #     - just modify the idVendor parameter regarding your own hardware         #
 ################################################################################
 
